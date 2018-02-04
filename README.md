@@ -12,9 +12,9 @@ not take any input k and automatically forms clusters on its own.
 
 We followed the following steps while modeling for each of the files. The details are entailed in the code.
 
-Reading the clean input file for all symptoms
-Used K-Means with 3 clusters and kmeans++ as type of k-means algorithm
-Created a Clusters columns for getting the clustered labels in the actual data
-Perform Principal Component Analysis (PCA) to convert n dimensions into 2 dimensions
-Plotted the scatter plot on 2d using pyplot
-Output into a csv file with the cluster labels in the code
+1. Reading the clean input file for all symptoms 
+2. Used K-Means with 3 clusters and kmeans++ as type of k-means algorithm
+3. Created a Clusters columns for getting the clustered labels in the actual data
+4. Perform Principal Component Analysis (PCA) to convert n dimensions into 2 dimensions
+5. Plotted the scatter plot on 2d using pyplot
+6. Output into a csv file with the cluster labels in the code
