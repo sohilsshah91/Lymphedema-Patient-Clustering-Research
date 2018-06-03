@@ -1,4 +1,4 @@
-# Lymphedema_Prediction_Clustering
+# Lymphedema_Patients_Clustering (Symptoms baased Clustering)
 
 This project is a research focused project highlighting application of unsupervised Machine learning techniques in predicting Lymphedema disease without having knowledge about the symptoms or fields.
 
